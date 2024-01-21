@@ -16,7 +16,6 @@ body {
 div {
     display: flex;
     text-transform: capitalize;
-    height: 50%;
     width: 95vw;
     align-items: center;
     text-align: center;
@@ -33,11 +32,12 @@ p {
 .sike {
     font-family: "Montserrat", system-ui;
     font-size: 50pt;
+    font-weight: 600;
 }
 
 svg {
     height: 30%;
     width: 100%;
     display: inline-block;
-    scale: 0.5;
+    scale: 0.95;
 }
