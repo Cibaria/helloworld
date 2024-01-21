@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #4590cd;
+    align-items: center;
+    justify-content: space-around;
+    justify-items: center;
+    vertical-align: center;
+    width: 95vw;
+    height: 95vh;
+    overflow: hidden;
+    margin: none;
+    border: none;      
+}
+
+div {
+    display: flex;
+    text-transform: capitalize;
+    font-family: "Rubik Burned", system-ui;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 100px;
+    height: 70%;
+    width: 95vw;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+}
+
+p {
+    display: inline-block;
+    width: auto;
+}
+
+svg {
+    height: 30%;
+    width: 100%;
+    display: inline-block;
+    scale: 0.5;
+}
