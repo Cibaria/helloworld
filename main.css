@@ -40,7 +40,6 @@ svg {
     width: 100%;
     display: inline-block;
     scale: 0.95;
-    margin-bottom: 5%;
 }
 
 img {
@@ -49,5 +48,5 @@ img {
 }
 
 .footer {
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 }
